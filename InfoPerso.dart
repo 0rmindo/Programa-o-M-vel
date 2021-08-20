@@ -102,8 +102,10 @@ mainAxisAlignment: MainAxisAlignment.center,
 children: [
 Text('AVANÇAR'),
 SizedBox(width: 10),
-]
-)
-)
-
+],
+),
+),
+),
+);
+}
 }
